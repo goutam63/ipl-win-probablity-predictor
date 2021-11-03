@@ -16,3 +16,5 @@ For a Classification problem, multiple algorithms can train the classifier accor
 Once we build the model, we need to validate that model using values that are never exposed to the model. Hence we split our data using train_test_split, a class provided by Scikit-learn into 2 parts having a distribution of 80–20. The model is trained on 80% of data and validated against the other 20% of the data.
 
 It is evident from the results that logistics regression gives us a higher accuracy of 80.44% than other algorithms for this data distribution.
+
+# LINK:[https://ipl-win-prodablity-predict.herokuapp.com/]
